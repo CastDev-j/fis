@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "9847d920dcbcdcd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "73c6305cbb14d93b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "636b13b79a145a98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Criterios.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Criterios"
+            }
+          },
+          {
+            "id": "06f7517e2df26039",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EV-1-APUNTES-08-26-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EV-1-APUNTES-08-26-2026"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e3d3b189483004d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7692cd09b9aa13ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c11fc52806074ffc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6cd0a3694a3f7fd2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cfc6d29c0f3cca20",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e423edaf4394e475",
+    "type": "split",
+    "children": [
+      {
+        "id": "9411650235bd1f1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad76829b65c263f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Criterios.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "efcd9c13d693910d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Criterios.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "98ddcd79b4109283",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2884c42176e13ede",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "18058e3a37932eb9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Criterios.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "06f7517e2df26039",
+  "lastOpenFiles": [
+    "Criterios.md",
+    "EV-1-APUNTES-08-26-2026.md",
+    "REDES/2026-08-24 1.5.10.md",
+    "REDES/Adjuntos/Pasted image 20260825074828.png",
+    "REDES/Adjuntos/Pasted image 20260825074818.png",
+    "REDES/Adjuntos/Pasted image 20260825074800.png",
+    "REDES/Adjuntos/Pasted image 20260825074748.png",
+    "REDES/Adjuntos/Pasted image 20260825074745.png",
+    "REDES/Adjuntos/Pasted image 20260825074735.png",
+    "REDES/Adjuntos/Pasted image 20260825074650.png",
+    "REDES/Adjuntos/Pasted image 20260825074642.png",
+    "REDES/Adjuntos/Pasted image 20260825074625.png",
+    "REDES/Adjuntos/Pasted image 20260825074603.png",
+    "REDES/2026-08-20 PT 2.md",
+    "REDES/2026-08-24.md",
+    "REDES/2026-08-20.md",
+    "REDES/2026-08-18.md",
+    "REDES/Laboratorios/CONFIG BASICA DE UN SW.pkt",
+    "REDES/Laboratorios/1.6.2-packet-tracer----configure-basic-router-settings---physical-mode_es-XL.pdf_es-XL_0506fa40-7071-4a58-be3b-312c967f15f7.pdf",
+    "REDES/Laboratorios/1.6.2-lab---configure-basic-router-settings_es-XL.pdf_es-XL_90be35ef-845c-478b-a12e-5394265d833f.pdf",
+    "REDES/Laboratorios/1.6.1-packet-tracer---implement-a-small-network_es-XL.pdf_es-XL_ee323b20-fc9d-4893-a1c8-f652e7ddb5ef.pdf",
+    "REDES/Laboratorios/1.5.10-packet-tracer---verify-directly-connected-networks_es-XL.pdf_es-XL_98148596-cc65-4ba6-a3e6-abb84bdbc2b5.pdf",
+    "REDES/Laboratorios/1.4.7-packet-tracer---configure-router-interfaces_es-XL.pdf_es-XL_8a7a1c43-e8c2-4ce9-8c1f-0d9324e6e6c2.pdf",
+    "REDES/Laboratorios/1.3.6-packet-tracer---configure-ssh_es-XL.pka_es-XL_b83f2bc5-7c63-4028-807f-8b449da83c2c.pka",
+    "REDES/Laboratorios/1.3.6-packet-tracer---configure-ssh_es-XL.pdf_es-XL_faa1c94a-c7ea-481a-828e-b1305708c0a5.pdf",
+    "REDES/Laboratorios/1.1.7-packet-tracer---basic-switch-configuration---physical-mode_es-XL.pdf_es-XL_f1fa12c5-2be7-44c4-865f-821b75b92ab3.pdf",
+    "REDES/Laboratorios/1.1.7-lab---basic-switch-configuration_es-XL.pdf_es-XL_9632c1de-1407-4126-90f7-dfa807bc9ee5.pdf"
+  ]
+}
