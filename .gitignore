@@ -1,0 +1,12 @@
+# === Obsidian ===
+# Estado de la interfaz (no es portable entre dispositivos)
+.obsidian/workspace.json
+.obsidian/workspace
+
+# Papelera de Obsidian
+.trash/
+
+# === Sistema / SO ===
+.DS_Store
+Thumbs.db
+desktop.ini

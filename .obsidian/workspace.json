@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EV-1-APUNTES-08-26-2026.md",
+                "file": "ev-1/EV-1-APUNTES-08-26-2026.md",
                 "mode": "source",
                 "source": false
               },
@@ -203,8 +203,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "06f7517e2df26039",
+  "active": "c11fc52806074ffc",
   "lastOpenFiles": [
+    "ev-1",
     "documentos-semestre-anterior/ev-1/EP1_FISC_CASTILLO JIMENEZ ANDRES.pdf",
     "documentos-semestre-anterior/ev-1/C1EV1_FISC_Castillo Andres.pdf",
     "documentos-semestre-anterior/ev-1",
@@ -215,7 +216,7 @@
     "documentos-semestre-anterior",
     "New folder",
     "Criterios.md",
-    "EV-1-APUNTES-08-26-2026.md",
+    "ev-1/EV-1-APUNTES-08-26-2026.md",
     "REDES/2026-08-24 1.5.10.md",
     "REDES/Adjuntos/Pasted image 20260825074828.png",
     "REDES/Adjuntos/Pasted image 20260825074818.png",
@@ -231,7 +232,6 @@
     "REDES/2026-08-24.md",
     "REDES/2026-08-20.md",
     "REDES/2026-08-18.md",
-    "REDES/Laboratorios/CONFIG BASICA DE UN SW.pkt",
-    "REDES/Laboratorios/1.6.2-packet-tracer----configure-basic-router-settings---physical-mode_es-XL.pdf_es-XL_0506fa40-7071-4a58-be3b-312c967f15f7.pdf"
+    "REDES/Laboratorios/CONFIG BASICA DE UN SW.pkt"
   ]
 }
