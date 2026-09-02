@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "73c6305cbb14d93b",
+        "id": "93c83674b0b3415d",
         "type": "tabs",
         "children": [
           {
-            "id": "636b13b79a145a98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ev-1/08-26-2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08-26-2026"
-            }
-          },
-          {
-            "id": "66f142a67eac7aab",
+            "id": "cf5959fb39d7fe67",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +22,7 @@
             }
           },
           {
-            "id": "4da21c6050eb87ae",
+            "id": "66f142a67eac7aab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,8 +214,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c11fc52806074ffc",
+  "active": "66f142a67eac7aab",
   "lastOpenFiles": [
+    "ev-1/08-28-2026.md",
+    "ev-1/09-02-2026.md",
+    "ev-1/08-26-2026.md",
     "adjuntos/Pasted image 20260902120639.png",
     "adjuntos/Pasted image 20260902120344.png",
     "adjuntos/Pasted image 20260902120237.png",
@@ -239,11 +228,7 @@
     "adjuntos/Pasted image 20260902113617.png",
     "adjuntos/Pasted image 20260902113606.png",
     "adjuntos/Pasted image 20260902113551.png",
-    "ev-1/08-28-2026.md",
-    "ev-1/08-26-2026.md",
-    "ev-1/09-02-2026.md",
     "adjuntos/Pasted image 20260902111258.png",
-    "adjuntos/Pasted image 20260902111246.png",
     "documentos-semestre-anterior/ev-1/C1EV1_FISC_Castillo Andres.pdf",
     "documentos-semestre-anterior/ev-1/EP1_FISC_CASTILLO JIMENEZ ANDRES.pdf",
     "Criterios.md",
