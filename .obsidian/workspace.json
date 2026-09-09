@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Criterios.md",
+                "file": "ev-1/09-02-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Criterios"
+              "title": "09-02-2026"
+            }
+          },
+          {
+            "id": "c27be93e81c0b4ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ev-1/09-09-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09-09-2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,33 +214,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94324bdc3f4c60e6",
+  "active": "c27be93e81c0b4ca",
   "lastOpenFiles": [
-    "ev-1/08-28-2026.md",
+    "actividad-app/dist/index.html",
+    "actividad-app/dist/assets/index-CVN4mdLg.css",
+    "actividad-app/dist/assets/index-B1_oEaEL.js",
+    "actividad-app/dist/assets",
+    "actividad-app/dist/icons.svg",
+    "actividad-app/dist/favicon.svg",
+    "actividad-app/dist",
+    "Pasted image 20260909120737.png",
+    "Pasted image 20260909120617.png",
+    "actividad-app/pnpm-lock.yaml",
+    "actividad-app/pnpm-lock.yaml.802672703",
+    "actividad-app/node_modules/@vitejs",
+    "actividad-app/node_modules/@types",
+    "actividad-app/node_modules/@eslint",
+    "actividad-app/node_modules",
+    "actividad-app/src/assets/vite.svg",
+    "actividad-app/src/assets/react.svg",
+    "actividad-app/src/assets/hero.png",
+    "actividad-app/README.md",
+    "actividad-app/public/icons.svg",
+    "actividad-app/public/favicon.svg",
+    "adjuntos/Pasted image 20260909115009.png",
     "ev-1/09-02-2026.md",
-    "documentos-semestre-anterior/ev-1/C1EV1_FISC_Castillo Andres.pdf",
-    "documentos-semestre-anterior/ev-1/EP1_FISC_CASTILLO JIMENEZ ANDRES.pdf",
+    "ev-1/09-09-2026.md",
     "ev-1/09-04-2026.md",
+    "ev-1/08-28-2026.md",
     "ev-1/08-26-2026.md",
-    "adjuntos/Pasted image 20260902120639.png",
-    "adjuntos/Pasted image 20260902120344.png",
-    "adjuntos/Pasted image 20260902120237.png",
-    "adjuntos/Pasted image 20260902120235.png",
-    "adjuntos/Pasted image 20260902120234.png",
-    "adjuntos/Pasted image 20260902114837.png",
-    "adjuntos/Pasted image 20260902113617.png",
-    "adjuntos/Pasted image 20260902113606.png",
-    "adjuntos/Pasted image 20260902113551.png",
-    "adjuntos/Pasted image 20260902111258.png",
     "Criterios.md",
-    "adjuntos",
-    "ev-1",
-    "documentos-semestre-anterior/ev-1",
-    "documentos-semestre-anterior/p-1",
-    "documentos-semestre-anterior/New folder",
-    "documentos-semestre-anterior/EP1_FISC_CASTILLO JIMENEZ ANDRES.pdf",
-    "documentos-semestre-anterior/C1EV1_FISC_Castillo Andres.pdf",
-    "documentos-semestre-anterior",
     "REDES/2026-08-24 1.5.10.md",
     "REDES/2026-08-20 PT 2.md",
     "REDES/2026-08-24.md",

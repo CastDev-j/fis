@@ -1,0 +1,168 @@
+:root {
+  --bg: #faf9f6;
+  --text: #2c2c2c;
+  --muted: #8a8a8a;
+  --accent: #c9a87c;
+  --accent-hover: #b8935f;
+  --surface: #ffffff;
+  --border: #e8e6e1;
+  --radius: 16px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100dvh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-font-smoothing: antialiased;
+}
+
+.container {
+  width: 100%;
+  max-width: 420px;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2.5rem;
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: 300;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text);
+}
+
+.subtitle {
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  color: var(--muted);
+  letter-spacing: 0.02em;
+}
+
+.dispenser {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  width: 100%;
+}
+
+.candy-display {
+  width: 220px;
+  height: 220px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: box-shadow 0.3s ease;
+}
+
+.candy-display:hover {
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.04);
+}
+
+.candy-result {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+  animation: fadeIn 0.4s ease;
+}
+
+.candy-emoji {
+  font-size: 4rem;
+  line-height: 1;
+}
+
+.candy-name {
+  font-size: 1rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.placeholder {
+  font-size: 3rem;
+  color: var(--border);
+  font-weight: 200;
+}
+
+.coin-button {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.9rem 2rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  color: var(--surface);
+  background: var(--accent);
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: background 0.2s ease, transform 0.15s ease;
+}
+
+.coin-button:hover {
+  background: var(--accent-hover);
+}
+
+.coin-button:active {
+  transform: scale(0.97);
+}
+
+.coin-icon {
+  font-size: 1.1rem;
+}
+
+footer {
+  width: 100%;
+}
+
+.flavors {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.flavor-tag {
+  font-size: 0.75rem;
+  color: var(--muted);
+  padding: 0.35rem 0.75rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 50px;
+  letter-spacing: 0.02em;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
